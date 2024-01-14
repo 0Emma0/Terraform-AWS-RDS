@@ -25,5 +25,5 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/897acbd7-8f2e-46ed-8dcd-c
 https://registry.terraform.io/modules/terraform-aws-modules/rds/aws/latest/examples/complete-mssql 
 
 # AWS RDS Terraform module
-The official RDS Terraform module is the best way to create RDS resources and supports all relational databases. You can inspect documentation and Terraform examples here: https://github.com/0Emma0/Terraform-AWS-RDS/tree/main/terraform
+The official RDS Terraform module is the best way to create RDS resources and supports all relational databases. You can inspect documentation and Terraform examples here: https://github.com/terraform-aws-modules/terraform-aws-rds
 
