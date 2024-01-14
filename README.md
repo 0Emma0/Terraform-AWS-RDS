@@ -1,7 +1,7 @@
 # Terraform-AWS-RDS
 Example to create RDS resources on AWS using Terraform
 
-First, we will see how to create a MS SQL Server Instance though AWS Management Console using RDS (Relational Database Service).
+First, we will see how to create a MSSQL Server Instance though AWS Management Console using RDS (Relational Database Service).
 
 ## Create new database instance
 https://catalog.us-east-1.prod.workshops.aws/workshops/897acbd7-8f2e-46ed-8dcd-c97872d5b3ce/en-US/lab1/1-createdatabase
