@@ -21,7 +21,7 @@ https://catalog.us-east-1.prod.workshops.aws/workshops/897acbd7-8f2e-46ed-8dcd-c
 ## Identity & Access Management
 https://catalog.us-east-1.prod.workshops.aws/workshops/897acbd7-8f2e-46ed-8dcd-c97872d5b3ce/en-US/lab6/2-iam
 
-# Complete RDS example for MSSQL Server
+# Terraform example for MSSQL Server
 https://registry.terraform.io/modules/terraform-aws-modules/rds/aws/latest/examples/complete-mssql 
 
 Configuration in this directory creates a set of RDS resources including DB instance, DB subnet group and DB parameter group.
